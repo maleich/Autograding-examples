@@ -2,7 +2,7 @@
 
 test1: lambdas
 test2: capsys
-another option is I/O test in GitHub classroom
+another option is I/O test in GitHub classroom (no function required!)
 * run command: python3 main.py
 * add input(s)
 * add output(s)
